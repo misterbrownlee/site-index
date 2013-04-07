@@ -1,0 +1,13 @@
+body {
+	margin:0 auto;
+	padding-left: 10px;
+	padding-right: 30px;
+	max-width:960px;
+	background:#FFF;
+	color: #000;
+	font-family:"Myrid Pro", "Helvetica Nue", Tahoma, Helvetica, sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
